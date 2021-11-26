@@ -23,7 +23,7 @@
 
 ## [マニュアル・PCアプリ](http://sohta02.web.fc2.com/familyday.html)
 
-## [つくるっちexeダウンロード](http://sohta02.web.fc2.com/familyday_exe.html)
+## [つくるっちexeダウンロードページ](http://sohta02.web.fc2.com/familyday_exe.html)
 
 ## 製品仕様
 

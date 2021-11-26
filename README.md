@@ -23,6 +23,8 @@
 
 ## [マニュアル・PCアプリ](http://sohta02.web.fc2.com/familyday.html)
 
+## [つくるっちexeダウンロード](http://sohta02.web.fc2.com/familyday_exe.html)
+
 ## 製品仕様
 
 【搭載マイコン】Arduino Nano互換 ATmega328,16Mhz,32kb ROM,2kb RAM,5V VC  

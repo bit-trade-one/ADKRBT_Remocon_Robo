@@ -24,3 +24,19 @@ PC上にUARTポートが複数認識されている場合、つくるっちは�
 2. [接続] - [ロボットをPC通信モードに設定] を選択してください。  
 
 ----
+
+### Q:ロボットが認識されていますが、Arduino IDEからプログラムを書き込めません
+
+#### A:Arduino IDEの"ボード"と"プロセッサ"を確認してください。
+
+ADKRBT リモコンロボにはArduino Nano互換ボードが搭載されています。  
+このボードにはブートローダが2バージョンあり、それに合わせて書き込み時の設定を変更する必要があります。  
+
+Arduino IDEの上部ツールバーより、[ツール]→[ボード]で"Arduino Nano"を選択、  
+[ツール]→[プロセッサ]で"ATmega328P"もしくは"ATmega328P (Old bootloader)"のどちらかを選択いただき、  
+書込めるか試してください。
+
+[参考資料：SWITCHSCIENCE様Arduino Nano販売ページ](https://www.switch-science.com/catalog/2554/)
+
+----
+
